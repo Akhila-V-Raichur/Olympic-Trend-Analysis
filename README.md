@@ -30,7 +30,7 @@ This project is a comprehensive analysis of the Summer Olympic Games, focusing o
 
 ## Data Source
 
-- The data used in this project is available in csv format, attactched in the zip file.
+- The data used in this project is available in csv format, attatched in the zip file.
 
 ## Conclusion
 
