@@ -38,6 +38,6 @@ This project offers a rich, interactive way to study and understand the trends a
 
 ## Author
 
-- **[Your Name]** - [LinkedIn](#) | [Email](#)
+- **Akhila V Raichur** - akhilaraichur@gmail.com(#)
 
 ---
