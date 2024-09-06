@@ -41,3 +41,4 @@ This project offers a rich, interactive way to study and understand the trends a
 - **Akhila V Raichur** - akhilaraichur@gmail.com
 
 ---
+![olympic trend](https://github.com/user-attachments/assets/b9fd8733-f4ba-4a22-bf91-2f7b4e9013bb)
